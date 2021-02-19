@@ -16,7 +16,7 @@ We trained our model making use of different **Amazon AWS** services from the **
 
 Later on, we came across different bugs while implementing the **Haar feature-based Cascade Classifier algorithms** for face and eyes detection.
 
-So, in overall, the majority of our challenges were related with implementing different **Deep Learning algorithms**, and we didn't have much issues while training our model in the Cloud and developing the user interface for our project.
+So, in overall, the majority of our challenges were related with implementing different **Deep Learning algorithms**, and we didn't have much issues while **training our model in the Cloud** and **developing the user interface** for our project.
 
 ***
 
