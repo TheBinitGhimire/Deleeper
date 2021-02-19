@@ -21,10 +21,32 @@ So, in overall, the majority of our challenges were related with implementing di
 ***
 
 ## Installation
-1. Clone this repository; `https://github.com/TheBinitGhimire/Deleeper/`
-2. Go inside the directory; `cd Deleeper`
-3. Install the requirements; `pip install -r requirements.txt`
-4. Start using **Deleeper**; `python main.py`
+### Direct Installation
+1. Clone this repository; **`git clone https://github.com/TheBinitGhimire/Deleeper/`**
+2. Go inside the directory; **`cd Deleeper`**
+3. Install the requirements; **`pip install -r requirements.txt`**
+4. Start using **Deleeper**; **`python main.py`**
+
+### Using Virtual Environment
+1. Clone this repository; **`git clone https://github.com/TheBinitGhimire/Deleeper/`**
+2. Go inside the directory; **`cd Deleeper`**
+3. Install Virtual Environment; **`python -m pip install --user virtualenv`**
+4. Create a Virtual Environment; **`python -m venv env`**
+5. Activate the Virtual Environment;
+    - On **Linux** and **macOS**: **`source env/bin/activate`**
+    - On **Windows**: **`.\env\Scripts\activate`**
+6. Install the requirements; **`pip install -r requirements.txt`**
+7. Start using **Deleeper**; **`python main.py`**
+8. Leave the Virtual Environment; **`deactivate`**
+
+## Usage
+## Direct Usage
+To use **Deleeper**, you simply need to run: **`python main.py`**.
+
+## Using Virtual Environment
+If you want to use **Deleeper** in a Virtual Environment after completing the above installation steps, you can follow the **Step 4** and the **Step 5** above, and then run: **`python main.py`**.
+
+After closing **Deleeper**, you can enter **`deactivate`** to leave the Virtual Environment.
 
 ***
 
