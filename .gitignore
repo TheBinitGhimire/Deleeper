@@ -5,3 +5,6 @@ images/*
 # exception to the rule
 !data/.gitkeep
 !images/.gitkeep
+!images/Deleeper Initial Screen.png
+!images/Deleeper Opened Eyes.png
+!images/Deleeper - Driver feeling Sleepy.png
