@@ -40,10 +40,10 @@ So, in overall, the majority of our challenges were related with implementing di
 8. Leave the Virtual Environment; **`deactivate`**
 
 ## Usage
-## Direct Usage
+### Direct Usage
 To use **Deleeper**, you simply need to run: **`python main.py`**.
 
-## Using Virtual Environment
+### Using Virtual Environment
 If you want to use **Deleeper** in a Virtual Environment after completing the above installation steps, you can follow the **Step 4** and the **Step 5** above, and then run: **`python main.py`**.
 
 After closing **Deleeper**, you can enter **`deactivate`** to leave the Virtual Environment.
