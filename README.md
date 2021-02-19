@@ -12,7 +12,7 @@ To solve or eradicate this problem with proper **Deep Learning** algorithms, we 
 ## Challenges Faced
 The major hassle that we ran into while building this project was during training the **Deep Learning model** using **Convolution Neural Networks** (**CNNs**), in which we spent a lot of our times on. Also, at the initial phase, we were facing a lot of issues with **Keras** and **TensorFlow** integration. 
 
-We trained our model making use of different **AWS** services from the **AWS Educate Starter Account** from **GitHub Student Developer Pack**, therefore our project makes use of three different tracks; **Data Science and AI**, **IoT** and **the Cloud**. 
+We trained our model making use of different **Amazon AWS** services from the **AWS Educate Starter Account** from **GitHub Student Developer Pack**, therefore our project makes use of three different tracks; **Data Science and AI**, **IoT** and **the Cloud**. 
 
 Later on, we came across different bugs while implementing the **Haar feature-based Cascade Classifier algorithms** for face and eyes detection.
 
