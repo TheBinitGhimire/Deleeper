@@ -81,6 +81,15 @@ After closing **Deleeper**, you can enter **`deactivate`** to leave the Virtual 
 
 ***
 
+## Team Members/Contributors
+
+| Picture | Information | Description |
+| ------- | ----------- | ----------- |
+| ![Binit Ghimire](https://avatars.githubusercontent.com/u/20013689) | [Binit Ghimire](https://github.com/TheBinitGhimire) | Binit is an undergraduate Computer Engineering student from Pokhara University. He is full-stack web developer and a web/network penetration tester, with 12 years of experience in the field of Technology. He is on the verge of developing a new Technology career strategy known as "**#DevSecNetSysServCloud**", which offers super-fast, secure and efficient development. He has contributed in this project in the form of training the Deep Learning model, integrating the DevSecOps strategy with AI and Cloud, and developing the overall functionality of the application. |
+| ![Brinda Subedi](https://avatars.githubusercontent.com/u/26792188) | [Brinda Subedi](https://github.com/brindasubedi) | Brinda is an undergraduate Software Engineering student from Pokhara University. She is a front-end web developer, a programmer, a UI/UX designer and a QA tester. KU HackFest 2021 is her first-ever hackathon, and she has contributed in this project in the form of the user interface development, quality assurance, collecting dataset for training the Deep Learning model, implementing the Haar feature-based Cascade Classifiers, preparing documentations and a lot more. |
+
+***
+
 ## Video Demonstration
 [![Deleeper | Detecting Sleepers - Sleeping Drivers Detection and Warning | KU HackFest 2021](https://i.ytimg.com/vi/WewO8QmnJJE/maxresdefault.jpg)](https://youtu.be/WewO8QmnJJE)
 
