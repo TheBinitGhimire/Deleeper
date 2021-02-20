@@ -74,9 +74,10 @@ After closing **Deleeper**, you can enter **`deactivate`** to leave the Virtual 
 * **Data Science and AI** (*the basis of our project*),
 * **Cloud** (*the platform where our Deep Learning model is trained*),
 * **IoT** (**_Internet of Things_**; *the platform where our project can be implemented*),
-* Best Use of **GitHub Student Developer Pack** (_making use of AWS Educate from the pack_), and,
-* Best **Hardware Hack** (_as a part of IoT for implementing this project in IoT in vehicles_)
-* Best **Beginner Hackers** (_we have two members in our team, and one of them is participating in a hackathon for the first time, therefore we have at least 50% first-timers in our team_)
+* Best Use of **GitHub Student Developer Pack** (*making use of AWS Educate from the pack*),
+* Best **Hardware Hack** (*as a part of IoT for implementing this project in IoT in vehicles*),
+* Best **Beginner Hackers** (*we have two members in our team, and one of them is participating in a hackathon for the first time, therefore we have at least 50% first-timers in our team*), and,
+* Best **Domain Name** from **GoDaddy Registry** (*making use of https://deleeper.co from GoDaddy Registry for our project*)
 
 ***
 
