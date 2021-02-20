@@ -71,11 +71,11 @@ After closing **Deleeper**, you can enter **`deactivate`** to leave the Virtual 
 ***
 
 ## Tracks
-* Cloud
-* Data Science and AI
-* IoT (Internet of Things)
-* Making use of GitHub Student Developer Pack
-* Hardware Hack (as a part of IoT for implementing this project in IoT in vehicles)
+* **Data Science and AI** (*the basis of our project*),
+* **Cloud** (*the platform where our Deep Learning model is trained*),
+* **IoT** (**_Internet of Things_**; *the platform where our project can be implemented*),
+* _Making use of **GitHub Student Developer Pack**_, and,
+* **Hardware Hack** (_as a part of IoT for implementing this project in IoT in vehicles_)
 
 ***
 
