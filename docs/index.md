@@ -75,16 +75,16 @@ If you want to use **Deleeper** in a Virtual Environment after completing the [I
 ***
 
 ## Tracks
-* Cloud
-* Data Science and AI
-* IoT (Internet of Things)
-* Making use of GitHub Student Developer Pack
-* Hardware Hack (as a part of IoT for implementing this project in IoT in vehicles)
+* **Data Science and AI** (*the basis of our project*),
+* **Cloud** (*the platform where our Deep Learning model is trained*),
+* **IoT** (**_Internet of Things_**; *the platform where our project can be implemented*),
+* _Making use of **GitHub Student Developer Pack**_, and,
+* **Hardware Hack** (_as a part of IoT for implementing this project in IoT in vehicles_)
 
 ***
 
 ## Video Demonstration
-[![Deleeper | Detecting Sleepers - Sleeping Drivers Detection and Warning | KU HackFest 2021](https://i.ytimg.com/vi/J06vPFZNRP0/maxresdefault.jpg)](https://youtu.be/J06vPFZNRP0)
+[![Deleeper | Detecting Sleepers - Sleeping Drivers Detection and Warning | KU HackFest 2021](https://i.ytimg.com/vi/WewO8QmnJJE/maxresdefault.jpg)](https://youtu.be/WewO8QmnJJE)
 
 ***
 
