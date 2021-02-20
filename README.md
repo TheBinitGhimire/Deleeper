@@ -80,7 +80,7 @@ After closing **Deleeper**, you can enter **`deactivate`** to leave the Virtual 
 ***
 
 ## Video Demonstration
-[![Deleeper | Detecting Sleepers - Sleeping Drivers Detection and Warning | KU HackFest 2021](https://i.ytimg.com/vi/J06vPFZNRP0/maxresdefault.jpg)](https://youtu.be/J06vPFZNRP0)
+[![Deleeper | Detecting Sleepers - Sleeping Drivers Detection and Warning | KU HackFest 2021](https://i.ytimg.com/vi/WewO8QmnJJE/maxresdefault.jpg)](https://youtu.be/WewO8QmnJJE)
 
 ***
 
